@@ -3,6 +3,7 @@
 ### Description
 You need to implement a course selling app. Make sure you setup your own mongodb instance before starting. 
 It needs to support two types of users - 
+mongodb+srv://msrawal2001:Dasa@1966@cluster0.y9qoc.mongodb.net/ --Connnection string 
 1. Admins
 2. Users
 
